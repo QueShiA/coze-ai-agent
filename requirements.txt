@@ -1,0 +1,8 @@
+# Vercel Python Runtime 依赖
+# 注意：Vercel 的 Python runtime 已经包含了标准库
+# 这里只需要列出额外的第三方库
+
+# 如果你需要使用 requests 库，可以添加：
+# requests==2.31.0
+
+# 目前的代码使用标准库 urllib，所以不需要额外依赖
